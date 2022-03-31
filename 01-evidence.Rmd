@@ -1,0 +1,72 @@
+# Intro and types of experiments
+
+So at this point you are in one of two positions:
+
+1) You are a medical student/ junior doctor and you have been asked one of the following questions:
+- What do you think of paper x ?
+- What is the evidence for this treatment?
+2) You want a way to assess the following:
+- Some study a friend/relative has sent you
+- Some new health claim a friend/relative asks your opinion on
+
+You need a way to assess what the evidence is for whatever claim, treatment, intervention, or whatever it is you are trying to decide about.
+
+For the purposes of this short book we will focus on evidence derived for human studies. There a number of types of studies involving humans.
+
+The main types to be familiar with are:
+
+- opinion
+- case reports / single person observations
+- case series / multiple observations
+- case:control studies
+- cohort studies
+- randomised controlled trials
+- meta analyses
+
+Lets go through them:
+
+## Opinion
+
+Opinion is just that. Someone thinks something. Hopefully their opinion has some evidence to back it up, but if you ask and they cant give any - then its just an opinion. If someone claims that they are more likely to be right than you because they have some degree, or qualification, or title (appeal to authority): that is usually a good sign that they don't have any good evidence to back up their claim.
+
+Example: "Diet x is great"
+
+## Case Studies
+Case studies are observations of something that happened to one person. They are sometimes the only evidence available (for example for a rare disease or situation) but in general they are not a very strong form of evidence. The reason for this is that there might be lots of others reasons for the outcome observed.
+
+Example: "I ate diet x and lost weight"
+
+The lackof sugar might be why they lost weight, but it may be due to other factors: change in exercise, change in sleep pattern, stress, etc etc. Why didnt measure or compare, so we dont know.
+
+## Case series
+
+A case series is a series of individual observations.
+
+Examples: "All my friends at diet x"
+
+## Case control
+
+A case control study involves taking a group of people with the outcome of interest (lets say a cancer) and a group without the outcome (no cancer) and looking back in time to see how their exposures differed. 
+
+Example: "I found 100 people aged 60 who have cancer and 100 similar people who dont have cancer and I looked back I found only 20% people with cancer followed diet x but 80% of those without cancer followed diet x therefore diet x might protect against cancer"
+
+## Cohort study
+
+This is kindof the opposite of the above study. You take a cohort of people with the exposure of interest and a group without and follow them up to see what the out come is.
+
+Example: I took 100 people who followed diet x and 100 who followed diet y and checked in after 10 years to see who had got cancer.
+
+## Randomised Controlled Trials
+
+Randomised Controlled Trials (RCT) are generally considered the 'best' form of evidence. Why is that? Well all of the previous study designs can suffer from a problem called confounding. We will come to confounding later on. Randomisation hope to eliminate the effects of confounding. 
+
+Example: I took 200 people, randomly  split them into two groups, then I made one group follow diet x and the other group diet y, and I checked for cancer at some point in the future.
+
+## Meta analyses
+
+Meta analysis is a way of combining the results of multiple previous studies (usually RCT) to increase the number of participants and 'add up' the results from more than one study
+
+
+
+
+

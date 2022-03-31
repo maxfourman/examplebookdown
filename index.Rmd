@@ -1,0 +1,34 @@
+--- 
+title: "Simple guide to critical appraisal"
+author: "Max Fourman"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is a minimal example of using the bookdown package to write a book.
+  For some content I thought to put together some thoughts on critical appraisal of evidence.
+link-citations: yes
+
+---
+
+# About
+
+This is a _sample_ book written in **Markdown**. I chose to write a simple structure for thinking about critical appraisal using some ideas I had previously developed.
+
+I have kept the example bookdown content for the first section to remind me how to use the package
+
+## Motivation 
+
+I am writing this simple book for a few reasons:
+
+1) To provide some content to practice using the bookdown package
+2) Critical appraisal is often poorly taught at medical school (with some notable exceptions) and I hope this short book may provide a simple framework for students getting started with reading papers
+3) Deciding what to believe is something thatis increasingly difficult these days. I think learning to appraise scientific studies is a good place to start for deciding what to believe / how to assess causality in the world around us 
+
+## Who is this for?
+
+- undergraduate medical students without prior training, experience or confidence in assessing the value of scientific papers
+- anyone with an interest in health and medicine who wants a framework for deciding whether or not to believe the latest study or health hack being spouted on the internet

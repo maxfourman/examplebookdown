@@ -1,0 +1,119 @@
+# Randomised Controlled Trials
+
+For the purposes of this booklet we will concentrate on randomised controlled trials (although the principle used to assess other trials are broadly similar)
+
+## Summarising a paper
+
+The first thing to do when looking at a new paper is to summarise it. Essentially here you are asking: what is the research question? What is the experiment trying to answer?
+
+One method to easily do this in your mind is to use the so called PICO format:
+
+- Population 
+- Intervention 
+- Comparator 
+- Outcome 
+
+## Validity
+
+The term validity is often used when talking about trials - is the experiment valid?
+
+There are two aspects to validity:
+
+- internal validity
+- external validity
+
+Internal validity is basically asking: is it a good experiment? 
+
+- Is the study conducted well? 
+-	Do you believe the results? 
+- Are there sources of bias?
+
+
+External validity is basically asking: does it matter? 
+
+- Does the result apply to me/ my patients?
+
+## Internal validty
+
+Do we believe the results of the experiment? We need to ascertain if the results might be due to something other than the intervention.
+
+Could they results be affected by?
+
+- Chance
+- Confounding
+- Error 
+- Bias
+
+### Chance
+
+< TO FINISH > 
+
+Type 1 error – “false positive” / “incorrectly reject null hypothesis”
+Type 2 error – “false negative” / “incorrectly accept null hypothesis”
+
+Power = 1 – probability of making a type 2 error
+Alpha = accepted probability of making a type 1 error
+
+Power calculations should be done prior to trial
+Very dependent on the effect size looked for!
+
+	
+### Confounding
+
+“variables capable of producing spurious associations between treatment and 			outcome, not attributable to their causative dependence”
+
+- are the two groups similar?
+- did randomisation get rid of any potential confounders?
+- does any confounder skew the effect towards or away from the null?
+
+### Error
+
+A problem of measurment
+
+Accuracy vs precision?
+
+### Bias
+
+A systematic error that moves the result in one direction
+
+Types of bias?
+
+- selection bias
+- performance bias
+- detection bias
+- attrition bias
+- reporting bias
+- other bias
+
+## External Validity
+
+- Can the results of this trial be used to guide treatment your patients?
+- Are the patients representative of the population they are sampled from?
+- Does your institution have similar patients?
+- Can the results be extrapolated to other patient groups not in the study?
+- Is the main outcome measure clinically relevant/important?
+- Is the intervention feasible / cost effective /affordable?
+
+
+## Summary
+
+
+
+
+
+
+
+
+
+- 
+
+
+
+The Number Needed to Treat (NNT) is the number of patients you need to treat to prevent one additional bad outcome
+
+To calculate the NNT, you need to know the Absolute Risk Reduction (ARR); the NNT is the inverse of the ARR:
+
+NNT = 1/ARR
+
+ARR = CER (Control Event Rate) – EER (Experimental Event Rate).
+
